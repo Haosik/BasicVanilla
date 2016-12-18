@@ -1,0 +1,35 @@
+body {
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: #efefef;
+}
+
+#my-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#my-button {
+    padding: 5px 15px;
+    font-weight: 700;
+    color: #fff;
+    border: 3px outset blue;
+    border-radius: 3px;
+    background-color: #0000bb;
+    cursor: pointer;
+}
+
+#my-button:hover {
+    background-color: blue;
+}
+
+#my-list {
+    max-width: 200px;
+    font-size: 18px;
+}
+
+#my-list li {
+    padding: 5px 0;
+    border-bottom: 1px dotted #ccc;
+}

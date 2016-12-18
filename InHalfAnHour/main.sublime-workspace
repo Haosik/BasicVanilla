@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"spa",
+				"space-between"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 559,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 599,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+			"3*4"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/FrontEnd/BasicVanilla/InHalfAnHour"
+	],
+	"file_history":
+	[
+		"/D/FrontEnd/BasicVanilla/InHalfAnHour/main.css",
+		"/D/Work/NashaStroyka/src/images/icons/home-phone.svg",
+		"/D/Work/NashaStroyka/src/images/icons/card-geo.svg",
+		"/D/Work/NashaStroyka/src/images/icons/card-fast.svg",
+		"/D/Work/NashaStroyka/src/images/icons/card-calc.svg",
+		"/D/Work/NashaStroyka/build/external/lightgallery/js/ecolight.js",
+		"/C/Users/noobb/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Work/NashaStroyka/src/sass/objects/_compare.scss",
+		"/C/Users/noobb/AppData/Local/Temp/Rar$DIa0.087/lg-autoplay.js",
+		"/D/Work/NashaStroyka/gulpfile.js",
+		"/D/Work/NashaStroyka/src/sass/base/_mixins.scss",
+		"/D/Work/NashaStroyka/src/templates/index.jade",
+		"/D/Work/NashaStroyka/src/templates/catalog.jade",
+		"/D/Work/NashaStroyka/src/templates/includes/header.jade",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/chatelainecd52a94b.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveribel-ru-prod-new6b95d913.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveribel-ua-devfb3eaf55.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveribel-ua-prod6c9ce017.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveri-md-prod-new7fcd6050.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveri-ru-dev-newbed625ae.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveri-ru-prod-newa1256124.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveri-ua-dev-new659ccf7.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/dveri-ua-prod-new4a16a2fb.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/ecosoft-devfceb2536.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/imperialgroup-prod599c784d.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/kaktus-prodf84e6dba.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/lenal-prod-newc7778cc4.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/Rosilla-prodf4d778e3.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/sl-ira-prod1f22353.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/smartel-prodb1b56e81.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/vodavdom-dev9a469677.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/system/conversion/vodavdom-prodae91dd35.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/config/options/find.recents.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/config/options/options.xml",
+		"/C/Users/noobb/.PhpStorm2016.2/config/options/recentProjectDirectories.xml",
+		"/D/Work/NashaStroyka/src/sass/objects/_header.scss",
+		"/D/Work/NashaStroyka/src/sass/style.scss",
+		"/D/Work/NashaStroyka/src/sass/objects/compare.scss",
+		"/C/Users/noobb/AppData/Local/Temp/Rar$DIa0.234/main.js",
+		"/D/Work/NashaStroyka/src/sass/state/_mobile.scss",
+		"/D/Work/NashaStroyka/nashastroyka/src/js/application.js",
+		"/D/Work/NashaStroyka/nashastroyka/src/sass/state/_tablet.scss",
+		"/D/Work/NashaStroyka/nashastroyka/src/sass/state/_mobile.scss",
+		"/D/Work/NashaStroyka/nashastroyka/src/sass/objects/_main.scss",
+		"/D/Work/NashaStroyka/nashastroyka/src/templates/card.jade",
+		"/D/Work/NashaStroyka/nashastroyka/src/templates/components/nav.jade"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sm",
+			"png",
+			"max-",
+			"img",
+			"selectbox",
+			"-select",
+			"-selectbox",
+			"-select",
+			".compare-select",
+			".compare-selectbox",
+			"30",
+			"cart",
+			"reviews-bg",
+			"    background-position: 2px 0;",
+			".articles .misc-one-carousel__item",
+			"subcategories-right__left",
+			"Haosik",
+			">\n",
+			"Haosik",
+			".header__search-drop",
+			":not",
+			"-cross",
+			"product-cross",
+			".product-cross",
+			":not",
+			"HEAD",
+			"65"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
